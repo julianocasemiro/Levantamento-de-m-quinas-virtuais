@@ -3,7 +3,7 @@
 > O propósito deste arquivo é facilitar a vida de quem trabalha com levantamento de máquinas virtuais, com um código já pronto para facilitar os processos iniciais
 e apenas configurar o que precisa ser configurado.
 
-#O que é necessário?
+### O que é necessário?
 
 > Um computador com hardware básico a intermediário
 
